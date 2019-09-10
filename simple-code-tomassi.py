@@ -9,3 +9,6 @@ Created on Tue Sep 10 12:30:35 2019
 def simple-code-tomassi(x):
 	y=x*x/10+3*x+2
 	return y
+
+def simplefunc:
+	print "I am in great pain please help me"
