@@ -7,5 +7,5 @@ Created on Tue Sep 10 12:30:35 2019
 """
 
 def simple-code-tomassi(x):
-	y=x*x/10+2
+	y=x*x/10+x+2
 	return y
